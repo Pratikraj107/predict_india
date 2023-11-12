@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "predictindia-5624d": {
+      "hosting": {
+        "predictindia": [
+          "predictindia-5624d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "predictindia-5624d"
+  }
+}
